@@ -15,8 +15,3 @@ title: Linux 学习笔记
 5. [[阶段五：v0.8 Login 登录验证机制]]
 6. [[阶段六：v0.9 完整 systemd 运行环境]]
 7. [[阶段七：v1.0 switch_root 唤醒真实系统]]
-
-## 其他笔记
-
-- [[Gemini-Systemd 引入与 Bash 服务管理]]
-- [[linix第一节课设任务]]
